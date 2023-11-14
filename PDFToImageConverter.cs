@@ -6,7 +6,7 @@ using System.IO;
 using Ghostscript.NET;
 using Ghostscript.NET.Rasterizer;
 
-namespace ZorgMetZorg.WebApplication.Utilities
+namespace Utilities
 {
     /// <summary>
     /// Utility class for converting PDF files to images using Ghostscript.NET library.
